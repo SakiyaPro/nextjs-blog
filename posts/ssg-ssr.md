@@ -1,5 +1,5 @@
 ---
-title: 'アニメを検索するコードの紹介'
+title: 'fauture-preview-url'
 date: '2020-01-02'
 ---
 
